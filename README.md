@@ -1,8 +1,8 @@
 # Personal-Website
 TR - Kişisel Website
-Çalmayın Lütfen İstediğiniz Gibi Değişitirebilrisin Oynama Yapabilirisiniz
+Çalmayın Lütfen İstediğiniz Gibi Değiştirebilrisiniz İstediğiniz Oynama Yapabilirisiniz.
 İyi Kodlamalar.
 
 EN - Personal Website
-Please don't steal it, you can change it as you like, you can play with it.
+Please do not steal, you can change it as you wish, you can play as you wish.
 Good Coding.
